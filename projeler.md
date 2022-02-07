@@ -1,4 +1,5 @@
 ## Insertion Sort Projesi
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org) veri bilimi eğitimi proje ödevi içindir.
 
 # Proje 1
 
